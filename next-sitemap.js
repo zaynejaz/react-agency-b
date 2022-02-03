@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://react-agency-b.vercel.app',
+  siteUrl: 'the-beta-agency.vercel.app',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
